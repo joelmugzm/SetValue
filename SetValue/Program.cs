@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Serilog;
 //-----------------------------------//
+
+// Setup a new repo in GitHub that is public.
 namespace SetValue
 {
     class Program
